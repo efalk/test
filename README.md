@@ -17,3 +17,8 @@ What about this text?
 
 * A list
 ## level 2 heading
+
+[Test, example.com](http://www.example.com)
+
+[Test, example.com]
+(http://www.example.com)
