@@ -11,3 +11,9 @@ And more text after that.
 
 : How about data lists, does markdown recognize them?
 ; Here's a data item
+
+# Level one heading
+What about this text?
+
+* A list
+## level 2 heading
