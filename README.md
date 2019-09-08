@@ -7,7 +7,7 @@ Some additional text, is it part of the bullet, or a new paragraph?
 And more text after that.
 
 * Here is a bullet list
- Does indented text end the item?
+ * Does indented text end the item?
 
 : How about data lists, does markdown recognize them?
 ; Here's a data item
