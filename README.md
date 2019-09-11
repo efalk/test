@@ -3,6 +3,16 @@ just a test repository
  does this break the paragraph?
 Let's see
 
+ Does indentation create a preformatted block?
+ Another indented line.
+
+    Does indentation create a preformatted block?
+    Another indented line.
+
+    Does indentation create a preformatted block?
+    Another indented line.
+Does this break the pattern?
+
 * Here is a bullet list
 Some additional text, is it part of the bullet, or a new paragraph?
 1. Did this start a new list?
