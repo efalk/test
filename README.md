@@ -1,6 +1,6 @@
 # test
 just a test repository
-* does this break the paragraph?
+ does this break the paragraph?
 Let's see
 
 * Here is a bullet list
