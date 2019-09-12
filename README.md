@@ -15,6 +15,8 @@ Does this break the pattern?
 
 * Here is a bullet list
 Some additional text, is it part of the bullet, or a new paragraph?
+ * What does one indent do?
+    * four indents
 1. Did this start a new list?
 And more text after that.
 * Another bullet
